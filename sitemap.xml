@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://soacg.pp.ua/posts/55905/</loc>
-    
-    <lastmod>2020-10-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soacg.pp.ua/posts/37141/</loc>
     
     <lastmod>2020-10-06</lastmod>
@@ -31,6 +24,13 @@
   
   <url>
     <loc>https://soacg.pp.ua/posts/13996/</loc>
+    
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soacg.pp.ua/posts/55905/</loc>
     
     <lastmod>2020-10-06</lastmod>
     
@@ -95,34 +95,6 @@
 
   
   <url>
-    <loc>https://soacg.pp.ua/tags/app/</loc>
-    <lastmod>2020-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://soacg.pp.ua/tags/%E5%AE%89%E5%8D%93/</loc>
-    <lastmod>2020-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://soacg.pp.ua/tags/%E7%A6%8F%E5%88%A9/</loc>
-    <lastmod>2020-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://soacg.pp.ua/tags/%E5%8C%BB%E5%AD%A6/</loc>
-    <lastmod>2020-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://soacg.pp.ua/tags/Cloudflare/</loc>
     <lastmod>2020-10-11</lastmod>
     <changefreq>daily</changefreq>
@@ -152,6 +124,34 @@
   
   <url>
     <loc>https://soacg.pp.ua/tags/DNSPod/</loc>
+    <lastmod>2020-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://soacg.pp.ua/tags/app/</loc>
+    <lastmod>2020-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://soacg.pp.ua/tags/%E5%AE%89%E5%8D%93/</loc>
+    <lastmod>2020-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://soacg.pp.ua/tags/%E7%A6%8F%E5%88%A9/</loc>
+    <lastmod>2020-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://soacg.pp.ua/tags/%E5%8C%BB%E5%AD%A6/</loc>
     <lastmod>2020-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -307,14 +307,14 @@
 
   
   <url>
-    <loc>https://soacg.pp.ua/categories/%E5%BA%94%E7%94%A8/</loc>
+    <loc>https://soacg.pp.ua/categories/%E6%8A%98%E8%85%BE/</loc>
     <lastmod>2020-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://soacg.pp.ua/categories/%E6%8A%98%E8%85%BE/</loc>
+    <loc>https://soacg.pp.ua/categories/%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2020-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
