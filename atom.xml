@@ -6,7 +6,7 @@
   <link href="https://soacg.pp.ua/atom.xml" rel="self"/>
   
   <link href="https://soacg.pp.ua/"/>
-  <updated>2020-10-11T07:26:48.000Z</updated>
+  <updated>2020-10-11T07:24:16.000Z</updated>
   <id>https://soacg.pp.ua/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://soacg.pp.ua/posts/0/"/>
-    <id>https://soacg.pp.ua/posts/0/</id>
-    <published>2020-10-11T07:27:24.220Z</published>
-    <updated>2020-10-11T07:26:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试用</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;测试用&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>迁移 Hexo 博客于 GitHub 并使用 GitHub Actions 进行编译及部署</title>
