@@ -6,7 +6,7 @@
   <link href="https://soacg.pp.ua/atom.xml" rel="self"/>
   
   <link href="https://soacg.pp.ua/"/>
-  <updated>2020-10-11T14:25:11.000Z</updated>
+  <updated>2020-11-28T15:03:02.000Z</updated>
   <id>https://soacg.pp.ua/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://soacg.pp.ua/posts/0/"/>
+    <id>https://soacg.pp.ua/posts/0/</id>
+    <published>2020-11-28T15:04:47.110Z</published>
+    <updated>2020-11-28T15:03:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>———<br>title: 英文版 UpToDate 订阅账号切换为中文浏览的方法<br>copyright: true<br>top: 0<br>tags:</p><ul><li>UpToDate</li><li>医学<br>categories: 折腾<br>———</li></ul><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>这个需求来自于偶然白嫖到的半年 uptodate 的订阅，只能访问英文词条，无法查看中文版的内容，带来极大痛苦（是我太菜了，虽然英文看得懂一点，但满屏都是的话，就心情不佳）。而在 uptodate 官方的 support 页面，只提示界面语言可设定为简体中文，但词条内容将始终是英文。而这和我之前体验到的并不一致，可能是分语言订阅的？我之前在丁香园体验了一个月的简体中文版，可后期要付费了。所在医院购买了 uptodate，能在内网进行访问，可惜需要一个连接准入客户端登入才能连上，否则就可以白嫖医院的订阅了。通过搜索引擎，得知了两种切换简体中文进行浏览词条内容的方法，而在我的测试成功之后，写下这篇文章以进行总结、记录和分享。</p><p>&lt;!— more —&gt;</p><h1 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h1><blockquote><p>分享词条链接，通过隐身模式进行访问，即可绕过设置或 cookie 等，访问简体中文词条内容。针对只看一次的内容。  </p></blockquote><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><h3 id="分享"><a href="#分享" class="headerlink" title="分享"></a>分享</h3><p>打开需要查看的内容，选择分享<br><img src="https://i.loli.net/2020/11/28/aNKzgqSV7Wl269u.jpg" alt="IMG_0351.jpeg"><br><img src="https://i.loli.net/2020/11/28/iAk1CPYM8R7xaF3.jpg" alt="IMG_0352.jpeg"></p><h3 id="用浏览器隐身模式打开"><a href="#用浏览器隐身模式打开" class="headerlink" title="用浏览器隐身模式打开"></a>用浏览器隐身模式打开</h3><p>接收到链接后，复制。打开浏览器，进入隐身模式。<br><img src="https://i.loli.net/2020/11/28/n3VpwkUbMzTavgm.jpg" alt="IMG_0353.jpeg"></p><h3 id="在链接中添加代码进行转化"><a href="#在链接中添加代码进行转化" class="headerlink" title="在链接中添加代码进行转化"></a>在链接中添加代码进行转化</h3><p>在浏览器中粘贴链接，插入代码<code>zh-Hans/</code><br><img src="https://i.loli.net/2020/11/28/S8cvM2itCp69EkX.jpg" alt="IMG_0354.jpeg"></p><h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><p>✔️访问词条的简体中文版本内容</p><p>❌分享链接会过期，（不知道是按时间还是按打开次数计算的）</p><p>❌相当于匿名访问，没有图片和表格</p><p><img src="https://i.loli.net/2020/11/28/UH8aoJwkGlghCxD.png" alt="IMG_0355.png"></p><h1 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h1><blockquote><p>分享链接打开后，使用打印，有能选择 Chinese 的选项，于是能简体中文浏览。针对后续想细细研究的内容。  </p></blockquote><h2 id="步骤-1"><a href="#步骤-1" class="headerlink" title="步骤"></a>步骤</h2><h3 id="分享-1"><a href="#分享-1" class="headerlink" title="分享"></a>分享</h3><p>打开需要查看的内容，选择分享<br><img src="https://i.loli.net/2020/11/28/aNKzgqSV7Wl269u.jpg" alt="IMG_0351.jpeg"><br><img src="https://i.loli.net/2020/11/28/iAk1CPYM8R7xaF3.jpg" alt="IMG_0352.jpeg"></p><h3 id="浏览器打开"><a href="#浏览器打开" class="headerlink" title="浏览器打开"></a>浏览器打开</h3><p>接收到链接后，复制。打开浏览器，粘贴并进入。只要没登陆都可以，不必一定是隐身模式。<br><img src="https://i.loli.net/2020/11/28/n3VpwkUbMzTavgm.jpg" alt="IMG_0353.jpeg"></p><h3 id="打印"><a href="#打印" class="headerlink" title="打印"></a>打印</h3><p>右上角有 <code>print</code>, 然后再选 <code>Chinese</code> 就好了。在做这一步时候，<strong>IP一定要位于中文区</strong>。再点一下打印就好了。针对 iOS 系统的话，用手指放大第一页，就自动生成 PDF 文件，此时可以保存到本地或用第三方 APP 打开了。<br><img src="https://i.loli.net/2020/11/28/WOwo5bJ1yPCz9Ir.jpg" alt="IMG_0355.jpeg"><br><img src="https://i.loli.net/2020/11/28/QuvRMVmC7K9SIOy.jpg" alt="IMG_0356.jpeg"></p><h2 id="效果-1"><a href="#效果-1" class="headerlink" title="效果"></a>效果</h2><p>✔️访问词条的简体中文版本内容</p><p>✔️点击打印可保存为 PDF，方便后期查阅</p><p>❌分享链接会过期，（不知道是按时间还是按打开次数计算的）</p><p>❌相当于匿名访问，没有图片和表格<br><img src="https://i.loli.net/2020/11/28/NGMRBtXUQl4Pvi6.png" alt="IMG_0357.png"></p><h1 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;———&lt;br&gt;title: 英文版 UpToDate 订阅账号切换为中文浏览的方法&lt;br&gt;copyright: true&lt;br&gt;top: 0&lt;br&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UpToDate&lt;/li&gt;
+&lt;li&gt;医学&lt;br&gt;categories: 折腾&lt;br&gt;——</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>迁移 Hexo 博客于 GitHub 并使用 GitHub Actions 进行编译及部署</title>
