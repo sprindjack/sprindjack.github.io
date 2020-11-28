@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://soacg.pp.ua/posts/0/</loc>
+    <loc>https://soacg.pp.ua/posts/39040/</loc>
     
     <lastmod>2020-11-28</lastmod>
     
@@ -306,6 +306,13 @@
   
   <url>
     <loc>https://soacg.pp.ua/tags/Sublime/</loc>
+    <lastmod>2020-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://soacg.pp.ua/tags/UpToDate/</loc>
     <lastmod>2020-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
